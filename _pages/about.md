@@ -22,7 +22,7 @@ Work experience
   * [LiveTSE](https://livetse.ir/)
   * Developing an "Automated Technical Analyzer" on the Tehran Stock Market
  
- Skills
+ Research Interests
 ======
 * Machine Learning
   * Deep Learning
