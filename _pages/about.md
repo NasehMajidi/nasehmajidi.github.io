@@ -44,9 +44,11 @@ Research Interests
 * Bioinformatics
 * Causal Inference
 
-Selected Projets
+Selected Projects
 ======
-[Stock Market Predictor Using Conv-Gru]
+* [Stock Market Predictor Using Conv-Gru](https://nasehmajidi.github.io//portfolio/Stock%20Market%20Predictor/)
+* [Vector Quantization](https://nasehmajidi.github.io//portfolio/Vector%20Quantization/)
+[**More**](/portfolio/)
   
 Skills
 ======
