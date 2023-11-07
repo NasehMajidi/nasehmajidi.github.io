@@ -1,7 +1,7 @@
 ---
 title: "Algorithmic trading using continuous action space deep reinforcement learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Algorithmic trading using continuous action space deep reinforcement learning
 excerpt: ''
 date: 2023/8/20
 venue: 'Expert Systems with Applications'
