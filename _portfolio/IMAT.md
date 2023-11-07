@@ -1,0 +1,7 @@
+---
+title: "Sparse Signal Recovery with IMAT, IMATI, and OMP Algorithms"
+excerpt: "Course: DSPII<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+{: style="text-align: right" }
+In this project, I have explored various techniques for reconstructing sparse signals from incomplete or noisy data. A traditional approach, which has been used for decades, is to use an anti-aliased low-pass filter at the Nyquist rate. However, this approach is not effective for high-quality speech, image, and video signals. I have demonstrated that the Iterative Method with an Adaptive Thresholding (IMAT) can accurately reconstruct a 2D signal with salt and pepper noise. The IMATI algorithm allows me to interpolate the signal using the moving average filter (used in this project), sample and hold, and linear interpolation before each iteration to obtain a better result. Orthogonal matching pursuit (OMP) is another algorithm for sparse signal recovery, but it is more complex than IMAT and other iterative methods..
