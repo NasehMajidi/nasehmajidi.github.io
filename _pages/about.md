@@ -12,8 +12,16 @@ I am currently employed at LiveTSE, where I have been working on the development
 
 Education
 ======
-* B.S. in Electrical Engineering, Isfahan University of Technology, 2019-2022
-* M.S. in Electrical Engineering - Communication Systems, Sharif University of Technology, 2019-2022
+**Sharif University of Technology**
+* M.S. in Electrical Engineering - Communication Systems, 2019-2022
+* **CGPA**: 17.11/20 (3.7/4)
+* **Thesis Title**: Algorithmic Trading Using Deep Reinforcement Learning
+* **Supervisor**: [Prof. Farokh Marvasti](https://scholar.google.com/citations?user=QqZjvMoAAAAJ&hl=en)
+
+**Isfahan University of Technology**
+* B.S. in Electrical Engineering, 2019-2022
+* **CGPA**: 17.77/20 (3.87/4.0)
+* **Final Project**: Implementing Portable ECG Monitor on Arduino
 
 Work experience
 ======
