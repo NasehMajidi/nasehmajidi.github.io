@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Naseh Majidi"
-  avatar           : "profile.png"
+  avatar           : "myprofile.jpg"
   bio              : "Data Scientist"
   location         : "Khonj/Fars, Iran"
-  employer         :
+  employer         : "Arya Sarmaye Algo. Company"
   pubmed           : 
   googlescholar     : "https://scholar.google.com/citations?user=237AOdkAAAAJ&hl=en"
   email            : "nasehmajidi1997@gmail.com"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  LinkedIn         : "https://www.linkedin.com/in/naseh-majidi-869870208/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2818-7810"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
