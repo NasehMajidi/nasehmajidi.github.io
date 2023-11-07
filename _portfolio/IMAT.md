@@ -1,6 +1,6 @@
 ---
 title: "Sparse Signal Recovery with IMAT, IMATI, and OMP Algorithms"
-excerpt: "Course: DSPII"
+excerpt: "Course: DSP II"
 collection: portfolio
 ---
 {: style="text-align: justify" }
