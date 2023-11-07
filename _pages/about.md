@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 {: style="text-align: justify" }
-I am currently employed at LiveTSE, where I have been working on the development of an automated technical trading system for the Tehran Stock Market. I have a strong academic background and experience in managing electrical and computer engineering projects, with a focus on solving mathematical and engineering problems using Deep Reinforcement Learning. My research interests include Machine/Deep Reinforcement Learning, Medical Image Analysis, Communication Systems, Digital Signal Processing, Causal Inference, Computer Vision, and Bioinformatics. I am also proficient in several programming languages, including Python, MATLAB, Mathcad, and C.
+I am currently employed at LiveTSE, where I have been working on the development of an automated technical trading system for the Tehran Stock Market. I have a strong academic background and experience in managing electrical and computer engineering projects, with a focus on solving mathematical and engineering problems using Deep Reinforcement Learning. I am also proficient in several programming languages, including Python, MATLAB, Mathcad, and C.
 
 Education
 ======
@@ -20,8 +20,20 @@ Work experience
 * June 2022 - Current: Data Scientist
   * Arya Sarmaye Algo. Company
   * [LiveTSE](https://livetse.ir/)
-  * Developing an "Automated Technical Analyzer" on Tehran Stock Market
-
+  * Developing an "Automated Technical Analyzer" on the Tehran Stock Market
+ 
+ Skills
+======
+* Machine Learning
+  * Deep Learning
+  * Reinforcement Learning
+  * Graph Neural Network
+* Medical Image Analysis
+* Communication Systems
+* Computer Vision
+* Signal Processing
+* Bioinformatics
+* Causal Inference
   
 Skills
 ======
