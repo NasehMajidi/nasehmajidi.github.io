@@ -22,6 +22,7 @@ Education
 * B.S. in Electrical Engineering, 2019-2022
 * **CGPA**: 17.77/20 (3.87/4.0)
 * **Final Project**: Implementing Portable ECG Monitor on Arduino
+* **Supervisor**: [Prof. Behzad Nazari](https://scholar.google.com/citations?user=OQVDaXMAAAAJ&hl=en)
 
 Work experience
 ======
