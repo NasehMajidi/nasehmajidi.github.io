@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 {: style="text-align: justify" }
-I am currently employed at LiveTSE, where I have been working on the development of an automated technical trading system for the Tehran Stock Market. I hold a Master of Science degree in Electrical Engineering - Communication Systems from Sharif University of Technology, where my thesis focused on "Algorithmic Trading Using Deep Reinforcement Learning" under the supervision of Professor Farokh Marvasti. I also received a Bachelor of Science degree in Electrical Engineering from Isfahan University of Technology in 2019.
+I am currently employed at LiveTSE, where I have been working on the development of an automated technical trading system for the Tehran Stock Market. I have a strong academic background and experience in managing electrical and computer engineering projects, with a focus on solving mathematical and engineering problems using Deep Reinforcement Learning. My research interests include Machine/Deep Reinforcement Learning, Medical Image Analysis, Communication Systems, Digital Signal Processing, Causal Inference, Computer Vision, and Bioinformatics. I am also proficient in several programming languages, including Python, MATLAB, Mathcad, and C.
 
-{: style="text-align: justify" }
-I have a strong academic background and experience in managing electrical and computer engineering projects, with a focus on solving mathematical and engineering problems using Deep Reinforcement Learning. My research interests include Machine/Deep Reinforcement Learning, Medical Image Analysis, Communication Systems, Digital Signal Processing, Causal Inference, Computer Vision, and Bioinformatics. I am also proficient in several programming languages, including Python, MATLAB, Mathcad, and C.
 
-See my [CV](/cv/) to know me more.
