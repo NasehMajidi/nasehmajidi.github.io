@@ -11,7 +11,7 @@ Huffman coding necessitates an understanding of the original sequence's probabil
 
 Figures and Tables
 ====
-* **Method**:
+* **Method**:<br>
 <img src='/projects images/Adaptive Huffman/1.PNG'><br>
 <img src='/projects images/Adaptive Huffman/2.PNG'><br>
 <img src='/projects images/Adaptive Huffman/3.PNG'><br>
