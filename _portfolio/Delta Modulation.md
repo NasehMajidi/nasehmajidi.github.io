@@ -1,6 +1,6 @@
 ---
 title: "Improving the Performance of Delta and Sigma-delta Modulation Based on Iterative Algorithms"
-excerpt: "**Keywords**:  Iterative algorithms; Delta modulation; Sigma-delta modulation; Analog to digital converter<br>Course: DSP II"
+excerpt: "**Keywords**:  Iterative algorithms; Delta modulation; Sigma-delta modulation; Analog to digital converter<br>**Course**: DSP II"
 collection: portfolio
 ---
 {: style="text-align: justify" }
