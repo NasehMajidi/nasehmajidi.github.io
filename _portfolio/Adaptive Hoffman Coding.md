@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Hoffman Coding"
-excerpt: "<img src='/projects images/Adaptive Huffman/1.PNG'><br>**Keywords**: Information Theory; Huffman Coding; Lossless Compression<br>**Course**: Data Compression"
+excerpt: "**Keywords**: Information Theory; Huffman Coding; Lossless Compression<br>**Course**: Data Compression"
 collection: portfolio
 ---
 {: style="text-align: justify" } 
