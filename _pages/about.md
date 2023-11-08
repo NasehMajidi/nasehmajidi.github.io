@@ -77,29 +77,27 @@ Publications
   <li class="hidden">Item 4</li>
   <li class="hidden">Item 5</li>
 </ul>
-<div class="button-container">
-  <button id="more-button">Show More</button>
-  <button id="less-button">Show Less</button>
-</div>
+<button id="toggle-button">Show More/Less</button>
 
 <script>
-  const moreButton = document.getElementById('more-button');
-  const lessButton = document.getElementById('less-button');
+  const toggleButton = document.getElementById('toggle-button');
   const hiddenItems = document.querySelectorAll('.hidden');
 
-  moreButton.addEventListener('click', () => {
-    hiddenItems.forEach(item => {
-      item.classList.remove('hidden');
-    });
-    moreButton.style.display = 'none';
-    lessButton.style.display = 'block';
-  });
+  let isExpanded = false;
 
-  lessButton.addEventListener('click', () => {
-    for (let i = 2; i < hiddenItems.length; i++) {
-      hiddenItems[i].classList.add('hidden');
+  toggleButton.addEventListener('click', () => {
+    if (isExpanded) {
+      hiddenItems.forEach(item => {
+        item.classList.add('hidden');
+      });
+      toggleButton.textContent = 'Show More';
+      isExpanded = false;
+    } else {
+      hiddenItems.forEach(item => {
+        item.classList.remove('hidden');
+      });
+      toggleButton.textContent = 'Show Less';
+      isExpanded = true;
     }
-    moreButton.style.display = 'block';
-    lessButton.style.display = 'none';
   });
 </script>
