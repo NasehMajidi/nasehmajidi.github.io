@@ -1,6 +1,6 @@
 ---
 title: "Designing an FM receiver (FM radio) using RTL-SDR"
-excerpt: "**Keywords**: FM Receiver; SDR; Low-Pass Filter; Communication <br>**Course**: Principles of Communication Systems"
+excerpt: "<img src='/projects images/FM Receiver/1.PNG'><br>**Keywords**: FM Receiver; SDR; Low-Pass Filter; Communication <br>**Course**: Principles of Communication Systems"
 collection: portfolio
 ---
 {: style="text-align: justify" }
