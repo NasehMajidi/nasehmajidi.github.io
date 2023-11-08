@@ -12,13 +12,13 @@ Huffman coding necessitates an understanding of the original sequence's probabil
 Figures and Tables
 ====
 * **Method**:
-<img src='projects images/Adaptive Huffman/1.PNG'><br>
-<img src='projects images/Adaptive Huffman/2.PNG'><br>
-<img src='projects images/Adaptive Huffman/3.PNG'><br>
-<img src='projects images/Adaptive Huffman/4.PNG'><br>
+<img src='/projects images/Adaptive Huffman/1.PNG'><br>
+<img src='/projects images/Adaptive Huffman/2.PNG'><br>
+<img src='/projects images/Adaptive Huffman/3.PNG'><br>
+<img src='/projects images/Adaptive Huffman/4.PNG'><br>
 
 * **Result**
-<img src='projects images/Adaptive Huffman/5.PNG'>
+<img src='/projects images/Adaptive Huffman/5.PNG'>
 
 
 
