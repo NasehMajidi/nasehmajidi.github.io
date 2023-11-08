@@ -19,7 +19,7 @@ Figures and Tables
 <img src='/projects images/Adaptive Huffman/3.PNG'><br>
 <img src='/projects images/Adaptive Huffman/4.PNG'><br>
 
-* **Result**
+* **Result**:
 
   
 <img src='/projects images/Adaptive Huffman/5.PNG'>
