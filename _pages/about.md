@@ -77,17 +77,29 @@ Publications
   <li class="hidden">Item 4</li>
   <li class="hidden">Item 5</li>
 </ul>
-<button id="more-button">Show More</button>
+<div class="button-container">
+  <button id="more-button">Show More</button>
+  <button id="less-button">Show Less</button>
+</div>
 
 <script>
   const moreButton = document.getElementById('more-button');
+  const lessButton = document.getElementById('less-button');
   const hiddenItems = document.querySelectorAll('.hidden');
 
   moreButton.addEventListener('click', () => {
     hiddenItems.forEach(item => {
       item.classList.remove('hidden');
     });
-    moreButton.textContent = 'Show Less';
+    moreButton.style.display = 'none';
+    lessButton.style.display = 'block';
+  });
+
+  lessButton.addEventListener('click', () => {
+    for (let i = 2; i < hiddenItems.length; i++) {
+      hiddenItems[i].classList.add('hidden');
+    }
+    moreButton.style.display = 'block';
+    lessButton.style.display = 'none';
   });
 </script>
-
