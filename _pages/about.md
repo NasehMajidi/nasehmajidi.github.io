@@ -72,10 +72,10 @@ Publications
 
 
 <ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li class="hidden">Item 3</li>
-  <li class="hidden">Item 4</li>
+  <li>ali 1</li>
+  <li>reza 2</li>
+  <li class="hidden">alll 3</li>
+  <li class="hidden">rezz 4</li>
 </ul>
 
 <!-- CSS code to hide the additional items initially -->
