@@ -12,7 +12,8 @@ Huffman coding necessitates an understanding of the original sequence's probabil
 Results
 ====
 <img src='https://github.com/NasehMajidi/Adaptive-Huffman/blob/main/Images/1.PNG'>
-<img src='/NasehMajidi/Adaptive-Huffman/blob/main/Images/1.PNG'>
+<img src='https://github.com/NasehMajidi/Adaptive-Huffman/tree/42fe267a176b02ad93444ef5df0f8b894e98c803/Images/1.PNG'>
+<img src=https://github.com/NasehMajidi/Adaptive-Huffman/tree/42fe267a176b02ad93444ef5df0f8b894e98c803/Images/1.PNG>
 <img src='NasehMajidi/Adaptive-Huffman/blob/main/Images/1.PNG'><br>
 ![MarineGEO circle logo](https://github.com/NasehMajidi/Adaptive-Huffman/blob/main/Images/1.PNG)
 <img src='/images/foo-bar-identity.jpg'>
