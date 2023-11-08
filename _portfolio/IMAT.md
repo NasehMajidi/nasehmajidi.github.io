@@ -8,3 +8,19 @@ In this project, I have explored various techniques for reconstructing sparse si
 
 
 **Keywords**: IMAT; IMATI; OMP; Iterative method; Sparse Signal<br>**Course**: DSP II<br>**Programming Language**: Mathcad
+
+
+Figures and Tables
+====
+* **Method**:
+
+
+<img src='/projects images/IMAT/1.PNG'><br>
+<img src='/projects images/IMAT/2.PNG'><br>
+<img src='/projects images/IMAT/3.PNG'><br>
+
+* **Result**:
+
+  
+<img src='/projects images/IMAT/4.PNG'><br>
+<img src='/projects images/IMAT/5.PNG'><br>
