@@ -70,3 +70,47 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li class="hidden">Item 3</li>
+  <li class="hidden">Item 4</li>
+</ul>
+
+<!-- CSS code to hide the additional items initially -->
+<style>
+  .hidden {
+    display: none;
+  }
+</style>
+
+<!-- HTML and CSS code for the "more" button or link -->
+<button id="more-button">More</button>
+<style>
+  #more-button {
+    display: block;
+    margin-top: 10px;
+  }
+</style>
+
+<!-- JavaScript code to toggle the visibility of the additional items -->
+<script>
+  const moreButton = document.getElementById('more-button');
+  const hiddenItems = document.querySelectorAll('.hidden');
+  let isHidden = true;
+
+  moreButton.addEventListener('click', () => {
+    hiddenItems.forEach(item => {
+      if (isHidden) {
+        item.style.display = 'list-item';
+        moreButton.textContent = 'Less';
+      } else {
+        item.style.display = 'none';
+        moreButton.textContent = 'More';
+      }
+    });
+    isHidden = !isHidden;
+  });
+</script>
+
