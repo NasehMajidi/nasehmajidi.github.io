@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Hoffman Coding"
-excerpt: "Course: Data Compression"
+excerpt: "**Course**: Data Compression<br>**Keywords**:Information Theory; Huffman Coding; Lossless Compression"
 collection: portfolio
 ---
 {: style="text-align: justify" } 
