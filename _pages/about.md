@@ -101,3 +101,35 @@ Publications
     }
   });
 </script>
+
+<ul id="my-list2">
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li class="hidden">Item 3</li>
+  <li class="hidden">Item 4</li>
+  <li class="hidden">Item 5</li>
+</ul>
+<button id="toggle-button">Show More/Less</button>
+
+<script>
+  const toggleButton = document.getElementById('toggle-button');
+  const hiddenItems = document.querySelectorAll('.hidden');
+
+  let isExpanded = false;
+
+  toggleButton.addEventListener('click', () => {
+    if (isExpanded) {
+      hiddenItems.forEach(item => {
+        item.classList.add('hidden');
+      });
+      toggleButton.textContent = 'Show More';
+      isExpanded = false;
+    } else {
+      hiddenItems.forEach(item => {
+        item.classList.remove('hidden');
+      });
+      toggleButton.textContent = 'Show Less';
+      isExpanded = true;
+    }
+  });
+</script>
