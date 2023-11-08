@@ -8,3 +8,6 @@ In code division multiple access (CDMA) communication systems, interference is a
 
 {: style="text-align: justify" }
 To prepare a signal for transmission in CDMA, it is multiplied by a signal code. Gold code and optical orthogonal code (OOC) are standard codes for wireless and optical applications, respectively. In our simulations, we also use random code to demonstrate that standard codes result in superior performance (lower bit error rate)
+
+
+**Keywords**:  Iterative algorithms; Delta modulation; Sigma-delta modulation; Analog to digital converter<br>**Course**: DSP II<br>**Programming Language**: Mathcad
