@@ -70,7 +70,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-div class="list-container">
+<div class="list-container">
   <ul id="list1">
     <li>Item 1</li>
     <li>Item 2</li>
