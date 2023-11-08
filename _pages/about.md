@@ -73,42 +73,8 @@ Publications
 
 <head>
   <meta charset="UTF-8">
-  <title>Toggleable Lists</title>
-  <style>
-    body {
-      font-family: sans-serif;
-    }
-
-    .list-container {
-      margin: 20px;
-      padding: 20px;
-      background-color: white;
-      border-radius: 5px;
-      border-bottom: 5px solid white;
-    }
-
-    ul {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-    }
-
-    li {
-      margin-bottom: 10px;
-    }
-
-    .button {
-      background-color: white;
-      color: black;
-      padding: 10px 20px;
-      border-radius: 0px;
-      cursor: pointer;
-    }
-
-    .hidden {
-      display: none;
-    }
-  </style>
+  <title>Toggleable Lists with Transparent Bottom</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="list-container">
@@ -171,4 +137,4 @@ Publications
     }
   </script>
 </body>
-
+</html>
