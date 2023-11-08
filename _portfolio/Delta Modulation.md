@@ -11,3 +11,27 @@ To prepare a signal for transmission in CDMA, it is multiplied by a signal code.
 
 
 **Keywords**:  Iterative algorithms; Delta modulation; Sigma-delta modulation; Analog to digital converter<br>**Course**: DSP II<br>**Programming Language**: Mathcad
+
+Figures and Tables
+====
+* **Method**:
+
+
+<img src='/projects images/Delta Modulation/1.PNG'><br>
+<img src='/projects images/Delta Modulation/2.PNG'><br>
+<img src='/projects images/Delta Modulation/3.PNG'><br>
+
+* **Result**:
+
+  
+<img src='/projects images/Delta Modulation/4.PNG'><br>
+<img src='/projects images/Delta Modulation/5.PNG'><br>
+<img src='/projects images/Delta Modulation/6.PNG'><br>
+<img src='/projects images/Delta Modulation/7.PNG'><br>
+
+
+
+
+
+
+
