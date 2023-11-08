@@ -4,8 +4,24 @@ excerpt: "**Keywords**: Vector Quantization; Scalar Quantization; Lossy Compress
 collection: portfolio
 ---
 {: style="text-align: justify" }
-In contrast to vector quantization, scalar quantization is an algorithm whose input is a scalar value, and each quantizer codeword represents a single sample of the source output. We encode sequences of samples in the lossy compression framework to improve encoding efficiency, and we also apply this approach in quantization (as a lossy compression). so, Instead of using individual samples, we use a codeword of length L to quantize a sequence of samples in vector quantization.
+Vector quantization stands as an algorithmic approach in contrast to scalar quantization. In scalar quantization, the input is a single numerical value, and each quantizer codeword represents a solitary sample of the source output. Within the lossy compression framework, encoding a sequence of samples enhances the efficiency of the encoding process. This concept is also employed in quantization (as a lossy compression technique). Consequently, in vector quantization, a sequence of samples is quantized using a codeword of length L, rather than using individual samples. In this project, we have employed K-means clustering to implement vector quantization.
 
 **Keywords**: Vector Quantization; Scalar Quantization; Lossy Compression; Linde-Buzo-Gray<br>
 **Course**: Data Compression<br>
 [**Code**](https://github.com/NasehMajidi/VectorQuantization)
+
+Figures and Tables
+====
+* **Method**:
+
+
+<img src='/projects images/Vector Quantization/1.PNG'><br>
+<img src='/projects images/Vector Quantization/2.PNG'><br>
+<img src='/projects images/Vector Quantization/3.PNG'><br>
+
+
+* **Result**:
+
+  
+<img src='/projects images/Vector Quantization/4.PNG'><br>
+<img src='/projects images/Vector Quantization/5.PNG'><br>
