@@ -70,71 +70,106 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<div class="list-container">
-  <h1>Main Heading</h1>
-  <ul id="list1">
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li class="hidden">Item 3</li>
-    <li class="hidden">Item 4</li>
-    <li class="hidden">Item 5</li>
-  </ul>
-  <button id="toggle-button1">Show More</button>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Toggleable Lists</title>
+  <style>
+    body {
+      font-family: sans-serif;
+    }
 
-  <h1>Main Heading</h1>
-  <ul id="list2">
-    <li>Item 6</li>
-    <li>Item 7</li>
-    <li class="hidden">Item 8</li>
-    <li class="hidden">Item 9</li>
-    <li class="hidden">Item 10</li>
-  </ul>
-  <button id="toggle-button2">Show More</button>
+    .list-container {
+      margin: 20px;
+      padding: 20px;
+      background-color: white;
+      border-radius: 5px;
+      border-bottom: 5px solid white;
+    }
 
-  <h1>Main Heading</h1>
-  <ul id="list3">
-    <li>Item 11</li>
-    <li>Item 12</li>
-    <li class="hidden">Item 13</li>
-    <li class="hidden">Item 14</li>
-    <li class="hidden">Item 15</li>
-  </ul>
-  <button id="toggle-button3">Show More</button>
-</div>
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
 
-<script>
-  const toggleButtons = document.querySelectorAll('.list-container button');
-  const hiddenItems = document.querySelectorAll('.hidden');
+    li {
+      margin-bottom: 10px;
+    }
 
-  for (const toggleButton of toggleButtons) {
-    const listId = toggleButton.id.replace('toggle-button', 'list');
-    const listItems = document.getElementById(listId).querySelectorAll('li');
+    .button {
+      background-color: #007bff;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
 
-    let isExpanded = false;
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="list-container">
+    <h2>List 1</h2>
+    <ul id="list1">
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li class="hidden">Item 3</li>
+      <li class="hidden">Item 4</li>
+      <li class="hidden">Item 5</li>
+    </ul>
+    <button id="toggle-button1" class="button">Show More</button>
 
-    toggleButton.addEventListener('click', () => {
-      if (isExpanded) {
-        for (let i = 2; i < listItems.length; i++) {
-          listItems[i].classList.add('hidden');
+    <h2>List 2</h2>
+    <ul id="list2">
+      <li>Item 6</li>
+      <li>Item 7</li>
+      <li class="hidden">Item 8</li>
+      <li class="hidden">Item 9</li>
+      <li class="hidden">Item 10</li>
+    </ul>
+    <button id="toggle-button2" class="button">Show More</button>
+
+    <h2>List 3</h2>
+    <ul id="list3">
+      <li>Item 11</li>
+      <li>Item 12</li>
+      <li class="hidden">Item 13</li>
+      <li class="hidden">Item 14</li>
+      <li class="hidden">Item 15</li>
+    </ul>
+    <button id="toggle-button3" class="button">Show More</button>
+  </div>
+
+  <script>
+    const toggleButtons = document.querySelectorAll('.button');
+    const hiddenItems = document.querySelectorAll('.hidden');
+
+    for (const toggleButton of toggleButtons) {
+      const listId = toggleButton.id.replace('toggle-button', 'list');
+      const listItems = document.getElementById(listId).querySelectorAll('li');
+
+      let isExpanded = false;
+
+      toggleButton.addEventListener('click', () => {
+        if (isExpanded) {
+          for (let i = 2; i < listItems.length; i++) {
+            listItems[i].classList.add('hidden');
+          }
+          toggleButton.textContent = 'Show More';
+          isExpanded = false;
+        } else {
+          for (let i = 2; i < listItems.length; i++) {
+            listItems[i].classList.remove('hidden');
+          }
+          toggleButton.textContent = 'Show Less';
+          isExpanded = true;
         }
-        toggleButton.textContent = 'Show More';
-        isExpanded = false;
-      } else {
-        for (let i = 2; i < listItems.length; i++) {
-          listItems[i].classList.remove('hidden');
-        }
-        toggleButton.textContent = 'Show Less';
-        isExpanded = true;
-      }
-    });
-  }
-</script>
-
-<h1>Main Heading</h1>
-<h2>Subheading</h2>
-<ul>
-  <h3>Header</h3>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-</ul>
+      });
+    }
+  </script>
+</body>
+</html>
