@@ -70,8 +70,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Toggleable Lists</title>
@@ -99,10 +98,10 @@ Publications
     }
 
     .button {
-      background-color: #007bff;
-      color: white;
+      background-color: white;
+      color: black;
       padding: 10px 20px;
-      border-radius: 5px;
+      border-radius: 0px;
       cursor: pointer;
     }
 
@@ -172,4 +171,4 @@ Publications
     }
   </script>
 </body>
-</html>
+
