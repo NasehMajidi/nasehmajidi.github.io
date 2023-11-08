@@ -15,13 +15,12 @@ Figures and Tables
 * **Method**:
 
 
-<img src='/projects images/Vector Quantization/1.PNG'><br>
-<img src='/projects images/Vector Quantization/2.PNG'><br>
-<img src='/projects images/Vector Quantization/3.PNG'><br>
+<img src='/projects images/Vector Qunatization/1.PNG'><br>
+<img src='/projects images/Vector Qunatization/2.PNG'><br>
+<img src='/projects images/Vector Qunatization/3.PNG'><br>
 
 
 * **Result**:
 
-  
-<img src='/projects images/Vector Quantization/4.PNG'><br>
-<img src='/projects images/Vector Quantization/5.PNG'><br>
+<img src='/projects images/Vector Qunatization/4.PNG'><br>
+<img src='/projects images/Vector Qunatization/5.PNG'><br>
