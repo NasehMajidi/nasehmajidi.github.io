@@ -9,10 +9,18 @@ Huffman coding necessitates an understanding of the original sequence's probabil
 
 **Keywords**: Information Theory; Huffman Coding; Lossless Compression<br>**Course**: Data Compression<br>**Programming Language**: Python
 
-Results
+Figures and Tables
 ====
-<img src='https://github.com/NasehMajidi/Adaptive-Huffman/tree/42fe267a176b02ad93444ef5df0f8b894e98c803/Images/1.PNG'>
-<img src=https://github.com/NasehMajidi/Adaptive-Huffman/tree/42fe267a176b02ad93444ef5df0f8b894e98c803/Images/1.PNG>
+* **Method**:
+<img src='projects images/Adaptive Huffman/1.PNG'><br>
+<img src='projects images/Adaptive Huffman/2.PNG'><br>
+<img src='projects images/Adaptive Huffman/3.PNG'><br>
+<img src='projects images/Adaptive Huffman/4.PNG'><br>
+
+* **Result**
+<img src='projects images/Adaptive Huffman/5.PNG'>
+
+
 
 
 
