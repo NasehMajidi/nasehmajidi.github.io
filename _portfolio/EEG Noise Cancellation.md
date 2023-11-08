@@ -1,6 +1,6 @@
 ---
 title: "EEG Noise Cancellation"
-excerpt: "Course: Adaptive Filters"
+excerpt: "**Keywords**:Signal Processing; Denoising; Adaptive Filters; LMS Algorithms<br>**Course**: Adaptive Filters"
 collection: portfolio
 ---
 
