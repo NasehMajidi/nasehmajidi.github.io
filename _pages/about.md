@@ -71,6 +71,7 @@ Publications
   {% endfor %}</ul>
 
 <div class="list-container">
+  <h1>Main Heading</h1>
   <ul id="list1">
     <li>Item 1</li>
     <li>Item 2</li>
@@ -80,6 +81,7 @@ Publications
   </ul>
   <button id="toggle-button1">Show More</button>
 
+  <h1>Main Heading</h1>
   <ul id="list2">
     <li>Item 6</li>
     <li>Item 7</li>
@@ -89,6 +91,7 @@ Publications
   </ul>
   <button id="toggle-button2">Show More</button>
 
+  <h1>Main Heading</h1>
   <ul id="list3">
     <li>Item 11</li>
     <li>Item 12</li>
@@ -126,3 +129,12 @@ Publications
     });
   }
 </script>
+
+<h1>Main Heading</h1>
+<h2>Subheading</h2>
+<ul>
+  <h3>Header</h3>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
