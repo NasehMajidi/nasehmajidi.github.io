@@ -13,7 +13,7 @@ Results
 ====
 <img src='https://github.com/NasehMajidi/Adaptive-Huffman/blob/main/Images/1.PNG'>
 <img src='/NasehMajidi/Adaptive-Huffman/blob/main/Images/1.PNG'>
-<img src='NasehMajidi/Adaptive-Huffman/blob/main/Images/1.PNG'>
+<img src='NasehMajidi/Adaptive-Huffman/blob/main/Images/1.PNG'><br>
 ![MarineGEO circle logo](https://github.com/NasehMajidi/Adaptive-Huffman/blob/main/Images/1.PNG)
 <img src='/images/foo-bar-identity.jpg'>
 
