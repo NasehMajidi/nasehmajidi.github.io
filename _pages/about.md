@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 {: style="text-align: justify" }
-I am currently employed at LiveTSE, where I have been working on the development of an automated technical trading system for the Tehran Stock Market. Furthermore, I have a strong academic background and experience in managing electrical and computer engineering projects, with a focus on solving mathematical and engineering problems using Deep Reinforcement Learning. My research focuses on machine learning and its applications in signal processing, medical image analysis, bioinformatics, and communications. I am also proficient in several programming languages, including Python, MATLAB, Mathcad, and C.
+I am currently employed at **LiveTSE**, where I have been working on the development of an **automated technical trading** system for the Tehran Stock Market. Furthermore, I have a strong academic background and experience in managing electrical and computer engineering projects, with a focus on solving mathematical and engineering problems using **Deep Reinforcement Learning**. My research focuses on **machine learning** and its applications in **signal processing**, **medical image analysis**, **bioinformatics**, and **communications**. I am also proficient in several programming languages, including **Python**, **MATLAB**, **Mathcad**, and **C**.
 
 Education
 ======
