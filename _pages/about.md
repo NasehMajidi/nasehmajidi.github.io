@@ -69,3 +69,67 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+  <div class="skill-bar">
+  <h2>My Skills</h2>
+  <ul>
+    <li>
+      <h3>HTML</h3>
+      <div class="progress">
+        <div class="progress-bar" style="width: 90%">90%</div>
+      </div>
+    </li>
+    <li>
+      <h3>CSS</h3>
+      <div class="progress">
+        <div class="progress-bar" style="width: 85%">85%</div>
+      </div>
+    </li>
+    <li>
+      <h3>JavaScript</h3>
+      <div class="progress">
+        <div class="progress-bar" style="width: 70%">70%</div>
+      </div>
+    </li>
+  </ul>
+</div>
+
+<style>
+.skill-bar {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.skill-bar h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.skill-bar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skill-bar li {
+  margin-bottom: 10px;
+}
+
+.skill-bar h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.skill-bar .progress {
+  height: 20px;
+  background-color: #eee;
+  border: 1px solid #ccc;
+}
+
+.skill-bar .progress-bar {
+  height: 100%;
+  background-color: #000;
+  transition: width 0.5s ease;
+}
+</style>
+
