@@ -12,7 +12,7 @@ I am a **data scientist** at LiveTSE, where I develop automated trading systems 
 
 My research covers **machine learning** applications in areas like **signal processing**, **medical imaging**, **bioinformatics**, and **communications**. I am particularly interested in **Large Language Models (LLMs)** and **chatbots**, working to enhance their ability to understand and generate human-like text for real-world applications.
 
-I am proficient in Python, MATLAB, and Mathcad, using these tools to turn theoretical concepts into practical systems.
+I am proficient in **Python**, **MATLAB**, and **Mathcad**, using these tools to turn theoretical concepts into practical systems.
 
 Education
 ======
